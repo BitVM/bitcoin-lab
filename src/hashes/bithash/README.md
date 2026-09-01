@@ -14,7 +14,7 @@ followed by RIPEMD-160.
 
 | Fragment | Script size | Input witness |
 | --- | ---: | ---: |
-| `bithash_verify([0; 20])` | `<!-- metric:bithash_verify -->793<!-- /metric:bithash_verify -->` bytes | 128 boolean items |
+| `bithash_verify([0; 20])` | <!-- metric:bithash_verify -->793<!-- /metric:bithash_verify --> bytes | 128 boolean items |
 
 Maximum combined depth is at least the 128 input items and is larger for the
 altstack-preserving variant. The executable tests cover both branches.

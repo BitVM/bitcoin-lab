@@ -20,9 +20,9 @@ excluded. Both operands together occupy ten witness items when witness-supplied.
 
 | Operation | Locking fragment | Maximum stack items |
 | --- | ---: | ---: |
-| Add | `<!-- metric:rns_add -->219<!-- /metric:rns_add -->` bytes | 118 |
-| Subtract | `<!-- metric:rns_sub -->221<!-- /metric:rns_sub -->` bytes | 118 |
-| Multiply | `<!-- metric:rns_mul -->1564<!-- /metric:rns_mul -->` bytes | 903 |
+| Add | <!-- metric:rns_add -->219<!-- /metric:rns_add --> bytes | 118 |
+| Subtract | <!-- metric:rns_sub -->221<!-- /metric:rns_sub --> bytes | 118 |
+| Multiply | <!-- metric:rns_mul -->1564<!-- /metric:rns_mul --> bytes | 903 |
 
 ## Security
 

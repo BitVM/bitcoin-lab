@@ -18,8 +18,8 @@ operation and operand placement.
 
 | Fragment | Script size |
 | --- | ---: |
-| `U254::add(1, 0)` | `<!-- metric:u254_add -->190<!-- /metric:u254_add -->` bytes |
-| `U254::mul()` | `<!-- metric:u254_mul -->111466<!-- /metric:u254_mul -->` bytes |
+| `U254::add(1, 0)` | <!-- metric:u254_add -->190<!-- /metric:u254_add --> bytes |
+| `U254::mul()` | <!-- metric:u254_mul -->111466<!-- /metric:u254_mul --> bytes |
 
 ## Security
 

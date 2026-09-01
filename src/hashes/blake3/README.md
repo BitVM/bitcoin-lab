@@ -17,7 +17,7 @@ verification are separate helpers.
 
 | Configuration | Compute script |
 | --- | ---: |
-| 64 bytes, 29-bit limbs | `<!-- metric:blake3_64_limb29 -->77777<!-- /metric:blake3_64_limb29 -->` bytes |
+| 64 bytes, 29-bit limbs | <!-- metric:blake3_64_limb29 -->77777<!-- /metric:blake3_64_limb29 --> bytes |
 
 Maximum depth is parameter-dependent. Use
 `maximum_number_of_altstack_elements_using_blake3` when composing other

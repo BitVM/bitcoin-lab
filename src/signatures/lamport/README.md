@@ -17,7 +17,7 @@ prefixes.
 
 | Configuration | Locking script | Unlocking witness |
 | --- | ---: | ---: |
-| 2-bit commit | `<!-- metric:lamport_lock -->96<!-- /metric:lamport_lock -->` bytes | `<!-- metric:lamport_witness -->11<!-- /metric:lamport_witness -->` bytes |
+| 2-bit commit | <!-- metric:lamport_lock -->96<!-- /metric:lamport_lock --> bytes | <!-- metric:lamport_witness -->11<!-- /metric:lamport_witness --> bytes |
 
 Maximum depth is dominated by the two witness items plus four embedded hashes;
 executable tests cover all four values and malformed witnesses.

@@ -15,7 +15,7 @@ Unlocking size and maximum depth depend on the surrounding composition.
 
 | Fragment | Script size |
 | --- | ---: |
-| `u32_add_drop(0, 1)` | `<!-- metric:u32_add_drop -->78<!-- /metric:u32_add_drop -->` bytes |
+| `u32_add_drop(0, 1)` | <!-- metric:u32_add_drop -->78<!-- /metric:u32_add_drop --> bytes |
 
 ## Security
 

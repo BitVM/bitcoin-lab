@@ -19,7 +19,7 @@ table setup.
 
 | Fragment | Script size |
 | --- | ---: |
-| `u4_push_add_tables()` | `<!-- metric:u4_add_tables -->92<!-- /metric:u4_add_tables -->` bytes |
+| `u4_push_add_tables()` | <!-- metric:u4_add_tables -->92<!-- /metric:u4_add_tables --> bytes |
 
 ## Security
 

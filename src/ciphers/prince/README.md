@@ -17,7 +17,7 @@ The metric excludes the 16-nibble plaintext witness and output comparison.
 
 | Fragment | Script size |
 | --- | ---: |
-| `prince_encrypt(0)` | `<!-- metric:prince_encrypt -->291044<!-- /metric:prince_encrypt -->` bytes |
+| `prince_encrypt(0)` | <!-- metric:prince_encrypt -->291044<!-- /metric:prince_encrypt --> bytes |
 
 Maximum depth is input/key-value dependent and is exercised by reference-vector
 tests. The state itself occupies 16 stack items.

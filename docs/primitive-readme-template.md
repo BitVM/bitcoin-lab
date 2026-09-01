@@ -14,7 +14,7 @@ sizes must use metric markers maintained by `tests/primitive_metrics.rs`.
 
 | Configuration | Locking script | Unlocking witness | Maximum stack items |
 | --- | ---: | ---: | ---: |
-| Default | `<!-- metric:key -->0<!-- /metric:key -->` bytes | ... | ... |
+| Default | <!-- metric:key -->0<!-- /metric:key --> bytes | ... | ... |
 
 ## Security
 

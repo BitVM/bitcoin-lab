@@ -18,9 +18,9 @@ result checks.
 
 | Fragment | Script size |
 | --- | ---: |
-| `Fq::add(1, 0)` | `<!-- metric:fq_add -->415<!-- /metric:fq_add -->` bytes |
-| `Fr::add(1, 0)` | `<!-- metric:fr_add -->415<!-- /metric:fr_add -->` bytes |
-| `Fq2::add(2, 0)` | `<!-- metric:fq2_add -->846<!-- /metric:fq2_add -->` bytes |
+| `Fq::add(1, 0)` | <!-- metric:fq_add -->415<!-- /metric:fq_add --> bytes |
+| `Fr::add(1, 0)` | <!-- metric:fr_add -->415<!-- /metric:fr_add --> bytes |
+| `Fq2::add(2, 0)` | <!-- metric:fq2_add -->846<!-- /metric:fq2_add --> bytes |
 
 Maximum depth is operation-specific; hinted multiplication/inversion is much
 larger than the representative additions.

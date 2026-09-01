@@ -21,7 +21,7 @@ includes witness serialization overhead.
 
 | Configuration | Locking script | Unlocking witness |
 | --- | ---: | ---: |
-| `Wots32`, list-pick | `<!-- metric:wots32_lock -->4908<!-- /metric:wots32_lock -->` bytes | `<!-- metric:wots32_witness -->1477<!-- /metric:wots32_witness -->` bytes |
+| `Wots32`, list-pick | <!-- metric:wots32_lock -->4908<!-- /metric:wots32_lock --> bytes | <!-- metric:wots32_witness -->1477<!-- /metric:wots32_witness --> bytes |
 
 Maximum stack depth and size vary with verifier, message length, and compact
 mode. The module's executable vectors cover all typed message lengths.
