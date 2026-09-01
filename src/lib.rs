@@ -20,6 +20,7 @@ pub mod cipher;
 pub mod bn254;
 pub mod hash;
 pub mod pseudo;
+pub mod rns;
 pub mod signatures;
 pub mod u32;
 pub mod u4;
