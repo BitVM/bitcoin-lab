@@ -16,6 +16,7 @@ use bitcoin::{
 use bitcoin_scriptexec::{Exec, ExecCtx, ExecError, ExecStats, Options, Stack, TxTemplate};
 
 pub mod bigint;
+pub mod cipher;
 pub mod bn254;
 pub mod hash;
 pub mod pseudo;
